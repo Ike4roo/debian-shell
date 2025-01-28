@@ -1,4 +1,4 @@
-# Script that works as a service and constantly checks DNS resolving mechanism in your system
+# Script that scheduled by CRON and constantly checks DNS resolving mechanism in your system
 
 Sometimes this script is necessary in order to automatically control DNS configs of the machine and return correct (e.g. you provider or user changes it manually or without your privity)
 
