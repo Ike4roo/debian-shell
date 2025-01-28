@@ -1,4 +1,4 @@
-# Script for automatic MediaWiki installation with PHP, NGINX, MariaDB
+# Script for semi-automatic MediaWiki installation with PHP, NGINX, MariaDB
 
 Used to install on a variety of hosts in any automated procedures or just on one machine to simplify the process
 
