@@ -16,7 +16,7 @@ Sometimes this script is necessary in order to automatically control DNS configs
 
 ## How-to
 
-Open file `nano dns_checker.sh`
+Open file `nano autodns.sh`
 Check what DNS IPs you would like to use
 Make it ~great again~ executable: `chmod +x dns_checker.sh`
-Execute: `./dns_checker.sh` or `sudo bash ./dns_checker.sh`
+Execute: `./autodns.sh` or `sudo bash ./autodns.sh`
